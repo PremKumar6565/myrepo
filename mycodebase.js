@@ -1,3 +1,3 @@
 function name() {
-    console.log("mycode");
+    console.log("mycode library menu");
 }
